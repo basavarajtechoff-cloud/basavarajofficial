@@ -50,4 +50,8 @@ y=x
 y.append(4)  # Appends 4 to the list y, which is a reference to the same list as x.
 print(x)  # Displays the list x, which now includes the appended value 4 since
 
+<<<<<<< HEAD
 #craeted new branch
+=======
+#craeted new branch Python_project
+>>>>>>> python_project

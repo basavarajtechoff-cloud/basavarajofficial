@@ -37,3 +37,8 @@ for i in reversed(my_list):  # Iterates over the list in reverse order. can be u
     print(i)  # Displays each item in the reversed list
 
 print(my_list[::-1])  # Displays the list in reverse order using slicing.
+<<<<<<< HEAD
+=======
+
+#keep this file in python project branch as well
+>>>>>>> python_project
