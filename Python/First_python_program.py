@@ -38,4 +38,10 @@ for i in reversed(my_list):  # Iterates over the list in reverse order. can be u
 
 print(my_list[::-1])  # Displays the list in reverse order using slicing.
 
-#keep this file in python project branch as well
+d = {1: 'Python',
+     2: 'Java',
+     True: 'AI',
+     False: 'ML',
+     0:'Data'}
+
+print (d)
